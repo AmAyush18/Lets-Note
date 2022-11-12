@@ -17,7 +17,7 @@ const Container = styled(Box)`
     min-height: 30px;
     padding: 10px 15px;
 `
-
+// default note object
 const note = {
     id: '',
     heading: '',

@@ -22,9 +22,9 @@ const Container = styled(Box)`
 
 const EmptyNotes = () => {
     return (
-        <Container>
+        <Container> 
             <Light />
-            <Text>Notes you add appear here</Text>
+            <Text>No Notes Added Yet..</Text>
         </Container>
     )
 }
